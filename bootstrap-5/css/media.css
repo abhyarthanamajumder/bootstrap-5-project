@@ -1,0 +1,63 @@
+@media(min-width:372px) and (max-width:768px){
+
+    .navbar{
+        --bs-navbar-brand-padding-y: -0.6875rem;
+    }
+    #banner {
+        padding-top: 55px;
+    }
+    #banner h1 {
+        font-size: 34px !important;
+        padding-top: 3px;
+    }
+    #banner button {
+        padding: 13px 30px;
+    }
+    #courses .courses-header h2 {
+        font-size: 18px;
+    }
+    #middle .middle-box h3 {
+        font-size: 20px;
+    }
+    #middle button {
+        padding: 12px 24px;
+    }
+    #teachers .teachers-header h2 {
+        font-size: 23px;
+    }
+    #slider .slider-header h5 {
+        font-size: 19px;
+    }
+    #slider .review p {
+        font-size: 13px;
+    }
+    #articles .articles-header h2 {
+        font-size: 20px;
+    }
+    #about-middle .middle-box h3 {
+        font-size: 24px;
+    }
+    #about-middle button {
+        padding: 10px 20px;
+    }
+    #numbers h3 {
+        font-size: 27px;
+    }
+    #numbers h5 {
+        font-size: 12px;
+    }
+    #w-courses h2 {
+        font-size: 20px;
+    }
+    #form button {
+        padding: 10px 28px;
+    }
+    #contact-help i {
+        font-size: 38px;
+        margin-top: 8px;
+    }
+    #contact-help button {
+        padding: 9px 28px;
+        margin-top: 8px;
+    }
+}
